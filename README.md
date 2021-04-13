@@ -12,6 +12,8 @@
 
 -Linus Torvalds-.
 
+
+<!-- thropy -->
 <p align="center">
 <a href="https://lutonda.github.io">
     <p align="center">
@@ -24,7 +26,7 @@
 -->
 
 
-**Languages and Tools:**
+**Techs and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -36,9 +38,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/jwt.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jwt/jwt.png"></code>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lutonda" alt="AlienDev66" /> </p>
 
@@ -53,11 +55,9 @@
 
 <a align="center" href="https://lutonda.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=lutonda&column=10&theme=dracula" />
         <img src="https://github-readme-stats.vercel.app/api?username=lutonda&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutonda&layout=compact&theme=dracula" alt="languages" height="170">
     </p>
 </a>
 
-<!-- thropy -->
 
