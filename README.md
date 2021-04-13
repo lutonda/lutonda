@@ -11,6 +11,14 @@
 
 -Linus Torvalds-.
 
+
+<p align="center">
+<a href="https://lutonda.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=lutonda&column=7&theme=dracula" />
+    </p>
+</a>
+</p>
 <!--
 **AlienDev66/AlienDev66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,19 +64,13 @@ Here are some ideas to get you started:
 
 <h2 align="center">Stats 💻</h2>
 <!-- status codes -->
+
 <a align="center" href="https://lutonda.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lutonda&show_icons=true&theme=dracula%22%20alt=%22my_github_stats%22%20height=%22170%22%20/%3E&nbsp;%3Cimg%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=lutonda&layout=compact&theme=dracula" alt="languages" height="170">
+    <img src="https://github-readme-stats.vercel.app/api?username=lutonda&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutonda&layout=compact&theme=dracula" alt="languages" height="170">
     </p>
 </a>
 
 <!-- thropy -->
-<p align="center">
-<a href="https://arshiamidos.github.io">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=AlienDev66&column=7&theme=dracula" />
-    </p>
-</a>
-</p>
 
-<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
