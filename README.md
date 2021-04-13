@@ -4,14 +4,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sebastiao%20Lutonda-0e76a8?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/luthonda)](https://www.linkedin.com/in/luthonda)
 [![Gmail Badge](https://img.shields.io/badge/-lutonda@gmail.com-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:lutonda@gmail.com)](mailto:p.lutonda@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Sebastiao%20Lutonda-000000?style=flat-square&labelColor=white&logo=Github&logoColor=000000&link=https://lutonda.github.io)](https://lutonda.github.io)
- <p align="center">
-    <img align="right" src="https://lutonda.github.io/assets/images/logo.png" alt="Illustration of AlienDev66" width=300px/>
+<p align="center">
+    <img align="center" src="https://lutonda.github.io/assets/images/logo.png" alt="Illustration of AlienDev66" width=300px/>
 </p>
 
+<p align="center">
 #### “Talk is cheap. Show me the code.”.
-
+</p>
+<p align="center">
 -Linus Torvalds-.
-
+</p>
 
 <!-- thropy -->
 <p align="center">
