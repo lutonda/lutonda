@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-lutonda@gmail.com-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:lutonda@gmail.com)](mailto:p.lutonda@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Sebastiao%20Lutonda-000000?style=flat-square&labelColor=white&logo=Github&logoColor=000000&link=https://lutonda.github.io)](https://lutonda.github.io)
 
-<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_progressive_app_m9ms.svg" alt="Illustration of AlienDev66" width=465px height=465px/>
+<img align="right" src="https://lutonda.github.io/assets/images/logo.png" alt="Illustration of AlienDev66" width=300px/>
 
 #### “Talk is cheap. Show me the code.”.
 
@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://lutonda.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=lutonda&column=7&theme=dracula" />
+        <img src="https://github-profile-trophy.vercel.app/?username=lutonda&column=10&theme=dracula" />
     </p>
 </a>
 </p>
